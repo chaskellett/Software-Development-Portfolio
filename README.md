@@ -31,6 +31,20 @@ A C++ console application that models compound investment growth with and withou
 
 **Technologies:** C++, Standard Template Library, console input/output
 
+### Grocery Frequency Analyzer
+
+A C++ file-processing application that converts grocery transaction records into searchable frequency data, numerical reports, and text histograms.
+
+**Highlights**
+
+- Read structured input from a text file and aggregated repeated records with `std::map`.
+- Implemented case-normalized item searches and menu-input validation.
+- Generated complete numerical reports and formatted histogram output.
+- Wrote analyzed frequency data to a backup file.
+- Separated the class declaration, implementation, and main application flow.
+
+**Technologies:** C++, Standard Template Library, maps, file input/output, data aggregation
+
 ### Course Advising Data Structures
 
 A C++ advising application that loads course data, validates prerequisite relationships, supports course lookup, and displays an ordered course list.
